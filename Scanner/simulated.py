@@ -1,0 +1,1 @@
+# Simulated fake frequency scanner. Contains noise & injected audio

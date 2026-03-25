@@ -1,0 +1,1 @@
+#Frequency ranges, API keys, and settings

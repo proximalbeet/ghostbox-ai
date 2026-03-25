@@ -1,0 +1,1 @@
+# Holds the claude API and finds patterns across all fragments.

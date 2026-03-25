@@ -1,0 +1,1 @@
+# Whisper; converts audio chunks to rough text
